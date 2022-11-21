@@ -1,0 +1,20 @@
+.task-container {
+  padding: 1rem 2rem;
+  max-width: 32rem;
+  border-bottom: 2px solid #FFF;
+}
+
+.task_title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.task_item{
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.task_time{
+  margin: 1rem 0;
+  color: #f38b5a;
+}
